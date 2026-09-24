@@ -33,5 +33,5 @@ test("rejects invalid numeric input", () => {
 });
 
 test("returns the number of open tasks", () => {
-  assert.equal(getOpenTaskCount(), 3);
+  assert.equal(getOpenTaskCount(), 4);
 });

@@ -6,7 +6,8 @@ const VIP_DISCOUNT = 0.1;
 const tasks = [
   "Design the menu screen",
   "Build the orders API",
-  "Add user login"
+  "Add user login",
+  "Add due dates to tasks"
 ];
 
 /**
